@@ -1,0 +1,14 @@
+body {
+    background-color: #0a192f;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-nav .nav-name {
+    color: #64ffda;
+    font-family: "Roboto";
+}
+
